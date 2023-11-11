@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 <div align=center>
   <h2>
     Stack
-  </h2>
-  
+  </h2>  
 </div>
-# Stack
+
 
 <div align=center>
 <br/>
