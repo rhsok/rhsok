@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer&fontSize=90" />
-<div align=center>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>       
-</div>
 <div align=center>     
   <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=169&theme=ray&rotate=0" alt="moon.svg"></a>
 </div>
