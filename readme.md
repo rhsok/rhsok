@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Front-end&desc=Developer&descAlign=60&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Front-end&desc=Developer&descAlign=60&fontSize=40" />
 <div align=center>     
   <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=169&theme=ray&rotate=0" alt="moon.svg"></a>
 </div>
@@ -37,6 +37,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=footer" />
 
