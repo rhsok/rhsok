@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rhsok/rhsok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=169&theme=basic&rotate=0)](https://moon-svg.minung.dev)
-<div style={{magin={0 auot}}}>
-<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg" alt="moon.svg"></a>
+
+<div align=center>
+<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=169&theme=ray&rotate=0" alt="moon.svg"></a>
 </div>
