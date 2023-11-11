@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-  <h2>
+
   Welcome to Ra's repository
-  </h2>
+
 </div>
 
 
@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-  <h1>
      ⚒️ Stack ⚒️
-  </h1>
 </div>
 
 
