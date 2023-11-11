@@ -35,3 +35,5 @@ Here are some ideas to get you started:
   
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=footer" />
+
