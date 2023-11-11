@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#3A4A51&height=180&section=header&text=Front-end&desc=Developer&descAlign=60&fontSize=40" />
+
 
 <div align=center>     
   <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=169&theme=ray&rotate=0" alt="moon.svg"></a>
