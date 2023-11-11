@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 </div>
 
 Stack
-<img src="https://img.shields.io/badge/javascript-#ECD53F?style=flat-square&logo=JavaScript&logoColor=#ECD53F"/>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
