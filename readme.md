@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=(4)&height=180&section=header&text=Front-end&desc=Developer&descAlign=60&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=18&height=180&section=header&text=Front-end&desc=Developer&descAlign=60&fontSize=40" />
 
 
 <div align=center>     
