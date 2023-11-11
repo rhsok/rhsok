@@ -20,7 +20,10 @@ Here are some ideas to get you started:
   <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?size=169&theme=ray&rotate=0" alt="moon.svg"></a>
 </div>
 
-Stack
+<div align=center>
+  Stack
+</div>
+
 <div align=center>
 <br/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
