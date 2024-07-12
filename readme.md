@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   <h1>
-      ⚒️ Stack ⚒️
+       Stack 
   </h1>
    
 </div>
